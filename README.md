@@ -2,14 +2,15 @@
 
 <hr />
 
-< a href="https://www.linkedin.com/in/helena-christina-britze-7255a617a/">
+<a href="https://www.linkedin.com/in/helena-christina-britze-7255a617a/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
 
 <br/>
 
 ### About Me
-👩‍💻 I’m a **Bioinformatician** from the University of Copenhagen, graduated in 2022. 
-🧬 I’m currently working in the field of **RNA Therapeutics** designing and modelling properties around siRNA and ASO-gapmer compounds.
+👩‍💻 I’m a **Bioinformatician** from the University of Copenhagen, graduated in 2022. </br> </br> 
+🧬 I’m currently working in the field of **RNA Therapeutics** designing and modelling properties around siRNA and ASO-gapmer compounds. </br> </br>
 
 <br/>
 <hr />
